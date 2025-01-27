@@ -1,4 +1,4 @@
-<img src="public/images/favicon.svg" alt="waw.travel" width="100"/>
+<img src="public/images/logo-2.svg" alt="waw.travel" width="100"/>
 
 # Waw.travel
 
